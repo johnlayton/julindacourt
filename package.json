@@ -1,6 +1,6 @@
 {
   "name"           : "julindacourt",
-  "version"        : "0.0.0",
+  "version"        : "0.0.1",
   "author"         : "john layton <john.layton@touchcorp.com>",
   "description"    : "An electron-vue project",
   "license"        : "MIT",
@@ -27,7 +27,7 @@
   },
   "build"          : {
     "productName": "julindacourt",
-    "appId"      : "org.simulatedgreg.electron-vue",
+    "appId"      : "org.loopy.julindacourt",
     "directories": {
       "output": "build"
     },
